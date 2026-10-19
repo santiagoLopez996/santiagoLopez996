@@ -25,6 +25,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
+### Backend & Cloud
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 ### Engineering & Robotics
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat&logo=dassaultsystemes&logoColor=white)
@@ -45,8 +49,11 @@ I enjoy programming and developing projects involving robotics, embedded systems
 ### 🩺 BradyHand
 IoT-based smart glove designed to support the monitoring of hand movements associated with bradykinesia.
 
-### ⚙️ Mechatronics Projects
-Projects involving embedded systems, control, robotics, mechanical design, and automation.
+### 🤖 Carrito_melchi
+Mobile robot developed with ROS 2 and an ESP32, controlled through an Xbox controller. The project combines embedded programming, robotic control, and communication between hardware and ROS 2.
+
+### 🏀 HoopersNet
+Basketball recruitment web platform focused on connecting players and opportunities in Colombia. Developed using HTML, CSS, JavaScript, and Firebase for authentication, database management, and application deployment.
 
 ---
 
