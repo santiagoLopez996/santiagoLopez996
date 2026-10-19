@@ -1,4 +1,4 @@
-# Hi, thanks for visiting my profile 👋
+# Hi, I am Santiago Lopez 👋
 
 - 🎓 Mechatronics Engineering student
 - 💻 Passionate about programming and technology
